@@ -1,13 +1,131 @@
-\contentsline {section}{\numberline {1}Identity}{1}{section.1}% 
-\contentsline {subsection}{\numberline {1.1}A Brief Biography}{1}{subsection.1.1}% 
-\contentsline {subsection}{\numberline {1.2}My Values}{1}{subsection.1.2}% 
-\contentsline {subsection}{\numberline {1.3}Skills}{2}{subsection.1.3}% 
-\contentsline {subsection}{\numberline {1.4}Biases}{3}{subsection.1.4}% 
-\contentsline {subsection}{\numberline {1.5}Metadiscourse on Handbook Design}{3}{subsection.1.5}% 
-\contentsline {section}{\numberline {2}Projects}{4}{section.2}% 
-\contentsline {subsection}{\numberline {2.1}Importance of Projects}{4}{subsection.2.1}% 
-\contentsline {subsection}{\numberline {2.2}Praxis I Design - Smart Hat}{4}{subsection.2.2}% 
-\contentsline {subsubsection}{\numberline {2.2.1}Process}{5}{subsubsection.2.2.1}% 
-\contentsline {subsubsection}{\numberline {2.2.2}Holistic Review}{7}{subsubsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.3}CIV102 - Genetic Bridge Algorithm}{9}{subsection.2.3}% 
-\contentsline {subsubsection}{\numberline {2.3.1}Process}{9}{subsubsection.2.3.1}% 
+\contentsline {section}{\numberline {1}Identity}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}A Brief Biography}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}My Values}{3}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Skills}{3}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Biases}{4}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}Metadiscourse on Handbook Design}{5}{subsection.1.5}% 
+\contentsline {section}{\numberline {2}Projects}{5}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Importance of Projects}{5}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Praxis I Design - Smart Hat}{6}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Process}{6}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Holistic Review}{9}{subsubsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.3}CIV102 - Genetic Bridge Algorithm}{11}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Process}{11}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Holistic Review}{12}{subsubsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.4}Praxis II Launcher}{13}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Process}{14}{subsubsection.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}Holistic Review}{14}{subsubsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.5}UofT Consulting Association Engagement: CareRelay}{15}{subsection.2.5}% 
+\contentsline {subsubsection}{\numberline {2.5.1}Process}{15}{subsubsection.2.5.1}% 
+\contentsline {subsubsection}{\numberline {2.5.2}Holistic Review}{17}{subsubsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.6}Play the Orchestra (MakeUofT)}{17}{subsection.2.6}% 
+\contentsline {subsubsection}{\numberline {2.6.1}Process}{18}{subsubsection.2.6.1}% 
+\contentsline {subsubsection}{\numberline {2.6.2}Holistic Review}{20}{subsubsection.2.6.2}% 
+\contentsline {subsection}{\numberline {2.7}Praxis II Firefighter RFP Implementation}{20}{subsection.2.7}% 
+\contentsline {subsubsection}{\numberline {2.7.1}Process}{21}{subsubsection.2.7.1}% 
+\contentsline {subsubsection}{\numberline {2.7.2}Holistic Review}{27}{subsubsection.2.7.2}% 
+\contentsline {subsection}{\numberline {2.8}Recursive Self-Actualization}{27}{subsection.2.8}% 
+\contentsline {subsubsection}{\numberline {2.8.1}Process}{28}{subsubsection.2.8.1}% 
+\contentsline {subsubsection}{\numberline {2.8.2}Validity as an Engineering Project}{31}{subsubsection.2.8.2}% 
+\contentsline {section}{\numberline {3}Personal Design Process}{33}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Brief Description of Process}{34}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Central Path Justification}{34}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Justification for Alternative Paths}{34}{subsubsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.2}Metadiscourse on Personal Design Process}{35}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Tools Index}{35}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Multi-vote [4]}{36}{subsection.4.1}% 
+\contentsline {paragraph}{Highlighted Project(s): }{36}{section*.2}% 
+\contentsline {paragraph}{How it works: }{36}{section*.3}% 
+\contentsline {paragraph}{Why it works for me: }{36}{section*.4}% 
+\contentsline {paragraph}{Drawbacks: }{36}{section*.5}% 
+\contentsline {subsection}{\numberline {4.2}How/wow/now matrix [5]}{36}{subsection.4.2}% 
+\contentsline {paragraph}{Highlighted Project(s): }{36}{section*.6}% 
+\contentsline {paragraph}{How it works: }{37}{section*.7}% 
+\contentsline {paragraph}{Why it works for me: }{37}{section*.8}% 
+\contentsline {paragraph}{Drawbacks: }{37}{section*.9}% 
+\contentsline {subsection}{\numberline {4.3}Solo to Group Brainstorming [6]}{37}{subsection.4.3}% 
+\contentsline {paragraph}{Highlighted Project(s): }{37}{section*.10}% 
+\contentsline {paragraph}{How it works: }{37}{section*.11}% 
+\contentsline {paragraph}{Why it works for me: }{37}{section*.12}% 
+\contentsline {paragraph}{Drawbacks: }{38}{section*.13}% 
+\contentsline {subsection}{\numberline {4.4}Multi-Panel Diverging}{38}{subsection.4.4}% 
+\contentsline {paragraph}{Highlighted Project(s): }{38}{section*.14}% 
+\contentsline {paragraph}{How it works: }{38}{section*.15}% 
+\contentsline {paragraph}{Why it works for me: }{38}{section*.16}% 
+\contentsline {paragraph}{Drawbacks: }{39}{section*.17}% 
+\contentsline {subsection}{\numberline {4.5}Minimum Viable Product (MVP) [7]}{39}{subsection.4.5}% 
+\contentsline {paragraph}{Highlighted Project(s): }{39}{section*.18}% 
+\contentsline {paragraph}{How it works: }{39}{section*.19}% 
+\contentsline {paragraph}{Why it works for me: }{39}{section*.20}% 
+\contentsline {paragraph}{Drawbacks: }{39}{section*.21}% 
+\contentsline {subsection}{\numberline {4.6}Continuous Argument}{39}{subsection.4.6}% 
+\contentsline {paragraph}{Highlighted Project(s): }{39}{section*.22}% 
+\contentsline {paragraph}{How it works: }{40}{section*.23}% 
+\contentsline {paragraph}{Why it works for me: }{40}{section*.24}% 
+\contentsline {paragraph}{Drawbacks: }{40}{section*.25}% 
+\contentsline {subsection}{\numberline {4.7}Shoshin Prototyping [8]}{40}{subsection.4.7}% 
+\contentsline {paragraph}{Highlighted Project(s): }{40}{section*.26}% 
+\contentsline {paragraph}{How it works: }{40}{section*.27}% 
+\contentsline {paragraph}{Why it works for me: }{40}{section*.28}% 
+\contentsline {paragraph}{Drawbacks: }{40}{section*.29}% 
+\contentsline {subsection}{\numberline {4.8}Extreme DfX [9]}{40}{subsection.4.8}% 
+\contentsline {paragraph}{Highlighted Project(s): }{40}{section*.30}% 
+\contentsline {paragraph}{How it works: }{41}{section*.31}% 
+\contentsline {paragraph}{Why it works for me: }{41}{section*.32}% 
+\contentsline {paragraph}{Drawbacks: }{41}{section*.33}% 
+\contentsline {subsection}{\numberline {4.9}Divide and Conquer}{41}{subsection.4.9}% 
+\contentsline {paragraph}{Highlighted Project(s): }{41}{section*.34}% 
+\contentsline {paragraph}{How it works: }{41}{section*.35}% 
+\contentsline {paragraph}{Why it works for me: }{41}{section*.36}% 
+\contentsline {paragraph}{Drawbacks: }{41}{section*.37}% 
+\contentsline {subsection}{\numberline {4.10}Pugh Chart [10]}{41}{subsection.4.10}% 
+\contentsline {paragraph}{Highlighted Project(s): }{41}{section*.38}% 
+\contentsline {paragraph}{How it works: }{42}{section*.39}% 
+\contentsline {paragraph}{Why it works for me: }{42}{section*.40}% 
+\contentsline {paragraph}{Drawbacks: }{42}{section*.41}% 
+\contentsline {subsection}{\numberline {4.11}Sensitivity Analysis [11]}{42}{subsection.4.11}% 
+\contentsline {paragraph}{Highlighted Project(s): }{42}{section*.42}% 
+\contentsline {paragraph}{How it works}{42}{section*.43}% 
+\contentsline {paragraph}{Why it works for me: }{42}{section*.44}% 
+\contentsline {paragraph}{Drawbacks: }{42}{section*.45}% 
+\contentsline {subsection}{\numberline {4.12}Devil\IeC {\textquoteright }s Advocate [12]}{42}{subsection.4.12}% 
+\contentsline {paragraph}{Highlighted Project(s): }{42}{section*.46}% 
+\contentsline {paragraph}{How it works: }{43}{section*.47}% 
+\contentsline {paragraph}{Why it works for me: }{43}{section*.48}% 
+\contentsline {paragraph}{Drawbacks: }{43}{section*.49}% 
+\contentsline {subsection}{\numberline {4.13}80-20 Risk Management Analysis}{43}{subsection.4.13}% 
+\contentsline {paragraph}{Highlighted Project(s): }{43}{section*.50}% 
+\contentsline {paragraph}{How it works: }{43}{section*.51}% 
+\contentsline {paragraph}{Why it works for me: }{43}{section*.52}% 
+\contentsline {paragraph}{Drawbacks: }{43}{section*.53}% 
+\contentsline {subsection}{\numberline {4.14}Pareto Curve Optimization [14]}{43}{subsection.4.14}% 
+\contentsline {paragraph}{Highlighted Project(s): }{43}{section*.54}% 
+\contentsline {paragraph}{How it works: }{43}{section*.55}% 
+\contentsline {paragraph}{Why it works for me: }{44}{section*.56}% 
+\contentsline {paragraph}{Drawbacks: }{44}{section*.57}% 
+\contentsline {subsection}{\numberline {4.15}Expected Value Calculations}{44}{subsection.4.15}% 
+\contentsline {paragraph}{Highlighted Project(s): }{44}{section*.58}% 
+\contentsline {paragraph}{How it works: }{44}{section*.59}% 
+\contentsline {paragraph}{Why it works for me: }{44}{section*.60}% 
+\contentsline {paragraph}{Drawbacks: }{44}{section*.61}% 
+\contentsline {subsection}{\numberline {4.16}Triangulation}{44}{subsection.4.16}% 
+\contentsline {paragraph}{Highlighted Project(s): }{44}{section*.62}% 
+\contentsline {paragraph}{How it works: }{44}{section*.63}% 
+\contentsline {paragraph}{Why it works for me: }{44}{section*.64}% 
+\contentsline {paragraph}{Drawbacks: }{44}{section*.65}% 
+\contentsline {subsection}{\numberline {4.17}Believability-weighted decision making [17]}{45}{subsection.4.17}% 
+\contentsline {paragraph}{Highlighted Project(s): }{45}{section*.66}% 
+\contentsline {paragraph}{How it works: }{45}{section*.67}% 
+\contentsline {paragraph}{Why it works for me: }{45}{section*.68}% 
+\contentsline {paragraph}{Drawbacks: }{45}{section*.69}% 
+\contentsline {subsection}{\numberline {4.18}Iterative design [18]}{45}{subsection.4.18}% 
+\contentsline {paragraph}{Highlighted Project(s): }{45}{section*.70}% 
+\contentsline {paragraph}{How it works: }{45}{section*.71}% 
+\contentsline {paragraph}{Why it works for me: }{45}{section*.72}% 
+\contentsline {paragraph}{Drawbacks: }{45}{section*.73}% 
+\contentsline {subsection}{\numberline {4.19}Rapid, automated iterative design [19]}{45}{subsection.4.19}% 
+\contentsline {paragraph}{Highlighted Project(s): }{45}{section*.74}% 
+\contentsline {paragraph}{How it works: }{46}{section*.75}% 
+\contentsline {paragraph}{Why it works for me: }{46}{section*.76}% 
+\contentsline {paragraph}{Drawbacks: }{46}{section*.77}% 
+\contentsline {section}{\numberline {5}Source Extracts}{46}{section.5}% 
