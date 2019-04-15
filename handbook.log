@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2019.1.7)  15 APR 2019 04:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2019.1.7)  15 APR 2019 05:59
 entering extended mode
 **./handbook.tex
 (handbook.tex
@@ -412,168 +412,170 @@ ox for projects.
  []
 
 [4] [5]
-<img/image002.jpg, id=314, 2006.49625pt x 1505.625pt>
+Overfull \hbox (26.26227pt too wide) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 comparing our alternatives using high-level objectives via \OT1
+/cmr/bx/n/12 logical argumentation
+ []
+
+<img/image002.jpg, id=316, 2006.49625pt x 1505.625pt>
 File: img/image002.jpg Graphic file (type jpg)
 <use img/image002.jpg>
-Package pdftex.def Info: img/image002.jpg  used on input line 81.
+Package pdftex.def Info: img/image002.jpg  used on input line 82.
 (pdftex.def)             Requested size: 390.0pt x 292.64227pt.
- [6]
-<img/image003.jpg, id=319, 1349.04pt x 1766.6pt>
+[6]
+<img/image003.jpg, id=323, 1349.04pt x 1766.6pt>
 File: img/image003.jpg Graphic file (type jpg)
 <use img/image003.jpg>
-Package pdftex.def Info: img/image003.jpg  used on input line 88.
+Package pdftex.def Info: img/image003.jpg  used on input line 89.
 (pdftex.def)             Requested size: 390.0pt x 510.71048pt.
  [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 
+l.93 
       <./img/image002.jpg>] [8pdfTeX warning (ext4): destination with the same 
 identifier (name{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.95 
+l.96 
       <./img/image003.jpg>]
-<img/image004.jpg, id=331, 1378.14874pt x 2006.49625pt>
+<img/image004.jpg, id=335, 1378.14874pt x 2006.49625pt>
 File: img/image004.jpg Graphic file (type jpg)
 <use img/image004.jpg>
-Package pdftex.def Info: img/image004.jpg  used on input line 100.
-(pdftex.def)             Requested size: 390.0pt x 567.816pt.
- [9]
-Overfull \vbox (46.1493pt too high) has occurred while \output is active []
-
-
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
- has been already used, duplicate ignored
+Package pdftex.def Info: img/image004.jpg  used on input line 101.
+(pdftex.def)             Requested size: 350.99762pt x 511.02214pt.
+ [9] [10pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.104 
+l.110 
        <./img/image004.jpg>]
-Overfull \hbox (15.82773pt too wide) in paragraph at lines 111--112
-\OT1/cmr/m/n/12 solutions') and my chances of success (estimated fairly high gi
-ven my background
+Overfull \hbox (10.27917pt too wide) in paragraph at lines 115--116
+\OT1/cmr/m/n/12 strong bridge designs (designs predicted to withstand more than
+ 3 kilonewtons),
  []
 
-<img/image005.png, id=341, 2006.49625pt x 1175.39125pt>
+<img/image005.png, id=348, 2006.49625pt x 1175.39125pt>
 File: img/image005.png Graphic file (type png)
 <use img/image005.png>
-Package pdftex.def Info: img/image005.png  used on input line 117.
+Package pdftex.def Info: img/image005.png  used on input line 119.
 (pdftex.def)             Requested size: 272.99881pt x 159.90848pt.
 [11]
-<img/image006.png, id=346, 737.75626pt x 555.07375pt>
+<img/image006.png, id=355, 737.75626pt x 555.07375pt>
 File: img/image006.png Graphic file (type png)
 <use img/image006.png>
-Package pdftex.def Info: img/image006.png  used on input line 124.
+Package pdftex.def Info: img/image006.png  used on input line 126.
 (pdftex.def)             Requested size: 272.99881pt x 205.39948pt.
  [12pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.131 
+l.133 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.131 
+l.133 
        <./img/image005.png> <./img/image006.png>]
-<img/image007.png, id=356, 194.7275pt x 252.945pt>
+<img/image007.png, id=365, 194.7275pt x 252.945pt>
 File: img/image007.png Graphic file (type png)
 <use img/image007.png>
-Package pdftex.def Info: img/image007.png  used on input line 137.
+Package pdftex.def Info: img/image007.png  used on input line 140.
 (pdftex.def)             Requested size: 272.99881pt x 354.63005pt.
 
-Underfull \hbox (badness 1831) in paragraph at lines 138--138
+Underfull \hbox (badness 1831) in paragraph at lines 141--141
 []\OT1/cmr/m/n/12 Figure 7: []The final launcher - note the solid building tech
 niques,
  []
 
-
-Overfull \hbox (7.08603pt too wide) in paragraph at lines 143--144
+[13]
+Overfull \hbox (7.08603pt too wide) in paragraph at lines 146--147
 \OT1/cmr/m/n/12 model in particular. Instead, we started with a \OT1/cmr/bx/n/1
 2 solo to group brainstorming
  []
 
-[13pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.144 
+l.147 
        <./img/image007.png>]
-<img/image008.png, id=364, 890.32625pt x 540.0175pt>
+<img/image008.png, id=380, 890.32625pt x 540.0175pt>
 File: img/image008.png Graphic file (type png)
 <use img/image008.png>
-Package pdftex.def Info: img/image008.png  used on input line 147.
+Package pdftex.def Info: img/image008.png  used on input line 150.
 (pdftex.def)             Requested size: 272.99881pt x 165.58266pt.
 
-Underfull \hbox (badness 3428) in paragraph at lines 148--148
+Underfull \hbox (badness 3428) in paragraph at lines 151--151
 []\OT1/cmr/m/n/12 Figure 8: []Our recording sheet for our brainstoorming and te
 am
  []
 
-[14pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
- has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.154 
-       <./img/image008.png>]
-Overfull \hbox (23.26775pt too wide) in paragraph at lines 155--155
+Overfull \hbox (23.26775pt too wide) in paragraph at lines 158--158
 []\OT1/cmr/bx/n/14.4 UofT Consulting Association Engagement: CareRelay 
  []
 
-<img/image009.png, id=371, 966.61125pt x 180.675pt>
+<img/image009.png, id=382, 966.61125pt x 180.675pt>
 File: img/image009.png Graphic file (type png)
 <use img/image009.png>
-Package pdftex.def Info: img/image009.png  used on input line 160.
+Package pdftex.def Info: img/image009.png  used on input line 164.
 (pdftex.def)             Requested size: 390.0pt x 72.89728pt.
-<img/image010.png, id=372, 2006.49625pt x 1139.25626pt>
-File: img/image010.png Graphic file (type png)
-<use img/image010.png>
-Package pdftex.def Info: img/image010.png  used on input line 171.
-(pdftex.def)             Requested size: 390.0pt x 221.43265pt.
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.175 
+l.168 
+       <./img/image008.png>]
+<img/image010.png, id=390, 2006.49625pt x 1139.25626pt>
+File: img/image010.png Graphic file (type png)
+<use img/image010.png>
+Package pdftex.def Info: img/image010.png  used on input line 175.
+(pdftex.def)             Requested size: 390.0pt x 221.43265pt.
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.179 
        <./img/image009.png>]
-<img/image011.png, id=379, 2006.49625pt x 1139.25626pt>
+<img/image011.png, id=398, 2006.49625pt x 1139.25626pt>
 File: img/image011.png Graphic file (type png)
 <use img/image011.png>
-Package pdftex.def Info: img/image011.png  used on input line 180.
+Package pdftex.def Info: img/image011.png  used on input line 184.
 (pdftex.def)             Requested size: 390.0pt x 221.43265pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.10
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.184 
-       <./img/image010.png>] [17pdfTeX warning (ext4): destination with the sam
+l.188 
+       <./img/image010.png>] [18pdfTeX warning (ext4): destination with the sam
 e identifier (name{figure.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.194 
+l.199 
        <./img/image011.png>]
-Overfull \hbox (0.61816pt too wide) in paragraph at lines 197--198
+Overfull \hbox (0.61816pt too wide) in paragraph at lines 202--203
 \OT1/cmr/m/n/12 experience, teams who do well in hackathons tend to incorporate
  the sponsor's
  []
 
-<img/image012.png, id=392, 2006.49625pt x 1057.9525pt>
+<img/image012.png, id=413, 2006.49625pt x 1057.9525pt>
 File: img/image012.png Graphic file (type png)
 <use img/image012.png>
-Package pdftex.def Info: img/image012.png  used on input line 201.
+Package pdftex.def Info: img/image012.png  used on input line 206.
 (pdftex.def)             Requested size: 390.0pt x 205.62997pt.
-[18]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 209.
+[19]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 214.
 
 
 ("/Users/abhargava/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
@@ -581,365 +583,371 @@ base/omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 209.
- [19pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 214.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.219 
+l.224 
        <./img/image012.png>]
-<img/image013.png, id=405, 2006.49625pt x 1495.5875pt>
+<img/image013.png, id=426, 2006.49625pt x 1495.5875pt>
 File: img/image013.png Graphic file (type png)
 <use img/image013.png>
-Package pdftex.def Info: img/image013.png  used on input line 222.
+Package pdftex.def Info: img/image013.png  used on input line 227.
 (pdftex.def)             Requested size: 155.99762pt x 116.27196pt.
-
-Overfull \hbox (5.84312pt too wide) in paragraph at lines 229--230
-\OT1/cmr/m/n/12 Helen playing the \OT1/cmr/bx/n/12 devil's advocate\OT1/cmr/m/n
-/12 , as well as our use of the \OT1/cmr/bx/n/12 MVP \OT1/cmr/m/n/12 framework
- []
-
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.238 
-       <./img/image013.png>]
-<img/image014.png, id=412, 758.835pt x 756.8275pt>
-File: img/image014.png Graphic file (type png)
-<use img/image014.png>
-Package pdftex.def Info: img/image014.png  used on input line 249.
-(pdftex.def)             Requested size: 253.49762pt x 252.82568pt.
- [21]
-<img/image015.png, id=420, 990.70125pt x 694.595pt>
-File: img/image015.png Graphic file (type png)
-<use img/image015.png>
-Package pdftex.def Info: img/image015.png  used on input line 256.
-(pdftex.def)             Requested size: 253.49762pt x 177.7288pt.
- [22pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.13
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.263 
+l.242 \subsubsection
+                    {Process} <./img/image013.png>]
+<img/image014.png, id=438, 758.835pt x 756.8275pt>
+File: img/image014.png Graphic file (type png)
+<use img/image014.png>
+Package pdftex.def Info: img/image014.png  used on input line 255.
+(pdftex.def)             Requested size: 253.49762pt x 252.82568pt.
+ [22]
+<img/image015.png, id=446, 990.70125pt x 694.595pt>
+File: img/image015.png Graphic file (type png)
+<use img/image015.png>
+Package pdftex.def Info: img/image015.png  used on input line 262.
+(pdftex.def)             Requested size: 253.49762pt x 177.7288pt.
+ [23pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.269 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.263 
+l.269 
        <./img/image014.png> <./img/image015.png>]
-<img/image016.png, id=429, 885.3075pt x 734.745pt>
+<img/image016.png, id=457, 885.3075pt x 734.745pt>
 File: img/image016.png Graphic file (type png)
 <use img/image016.png>
-Package pdftex.def Info: img/image016.png  used on input line 266.
+Package pdftex.def Info: img/image016.png  used on input line 272.
 (pdftex.def)             Requested size: 350.99762pt x 291.30298pt.
- [23pdfTeX warning (ext4): destination with the same identifier (name{figure.16
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.16
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.272 
+l.278 
        <./img/image016.png>]
-<img/image017.png, id=436, 919.435pt x 592.2125pt>
+<img/image017.png, id=466, 919.435pt x 592.2125pt>
 File: img/image017.png Graphic file (type png)
 <use img/image017.png>
-Package pdftex.def Info: img/image017.png  used on input line 275.
+Package pdftex.def Info: img/image017.png  used on input line 281.
 (pdftex.def)             Requested size: 312.00119pt x 200.96101pt.
-<img/image018.png, id=437, 2006.49625pt x 1123.19624pt>
+<img/image018.png, id=468, 2006.49625pt x 1123.19624pt>
 File: img/image018.png Graphic file (type png)
 <use img/image018.png>
-Package pdftex.def Info: img/image018.png  used on input line 284.
+Package pdftex.def Info: img/image018.png  used on input line 290.
 (pdftex.def)             Requested size: 312.00119pt x 174.64204pt.
- [24pdfTeX warning (ext4): destination with the same identifier (name{figure.17
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.17
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.288 
+l.294 
        <./img/image017.png>]
-Overfull \hbox (21.19592pt too wide) in paragraph at lines 289--290
+Overfull \hbox (21.19592pt too wide) in paragraph at lines 295--296
 []\OT1/cmr/m/n/12 From version 3.2-3.5, I iterated our design with the help of 
 our UI requirements
  []
 
 
-Overfull \hbox (4.07785pt too wide) in paragraph at lines 289--290
+Overfull \hbox (4.07785pt too wide) in paragraph at lines 295--296
 \OT1/cmr/m/n/12 us to move from a barebones, testable prototype to a fully func
 tional prototype
  []
 
-<img/image019.png, id=444, 284.06125pt x 307.1475pt>
+<img/image019.png, id=476, 284.06125pt x 307.1475pt>
 File: img/image019.png Graphic file (type png)
 <use img/image019.png>
-Package pdftex.def Info: img/image019.png  used on input line 293.
+Package pdftex.def Info: img/image019.png  used on input line 299.
 (pdftex.def)             Requested size: 272.99881pt x 295.21443pt.
-[25pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.297 
+l.303 
        <./img/image018.png>]
-Overfull \hbox (29.20953pt too wide) in paragraph at lines 298--299
+Overfull \hbox (29.20953pt too wide) in paragraph at lines 304--305
 \OT1/cmr/m/n/12 analogue board to address more immediate issues from our stakeh
 older interactions.
  []
 
-<img/image020.png, id=452, 798.985pt x 463.7325pt>
+<img/image020.png, id=484, 798.985pt x 463.7325pt>
 File: img/image020.png Graphic file (type png)
 <use img/image020.png>
-Package pdftex.def Info: img/image020.png  used on input line 302.
+Package pdftex.def Info: img/image020.png  used on input line 308.
 (pdftex.def)             Requested size: 350.99762pt x 203.71742pt.
-[26pdfTeX warning (ext4): destination with the same identifier (name{figure.19}
+[27pdfTeX warning (ext4): destination with the same identifier (name{figure.19}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.306 
+l.312 
        <./img/image019.png>]
-Overfull \hbox (13.55933pt too wide) in paragraph at lines 313--314
+Overfull \hbox (13.55933pt too wide) in paragraph at lines 320--321
 \OT1/cmr/m/n/12 videos on the internet. I was pretty good at closeup card magic
  and speedcubing,
  []
 
-[27pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.318 
+l.325 
        <./img/image020.png>]
-<img/image021.png, id=465, 2006.49625pt x 1293.83376pt>
+<img/image021.png, id=497, 2006.49625pt x 1293.83376pt>
 File: img/image021.png Graphic file (type png)
 <use img/image021.png>
-Package pdftex.def Info: img/image021.png  used on input line 327.
+Package pdftex.def Info: img/image021.png  used on input line 334.
 (pdftex.def)             Requested size: 350.99762pt x 226.32558pt.
- [28pdfTeX warning (ext4): destination with the same identifier (name{figure.21
+ [29pdfTeX warning (ext4): destination with the same identifier (name{figure.21
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.335 
+l.342 
        <./img/image021.png>]
-<img/image022.png, id=475, 348.30125pt x 434.62375pt>
+<img/image022.png, id=507, 348.30125pt x 434.62375pt>
 File: img/image022.png Graphic file (type png)
 <use img/image022.png>
-Package pdftex.def Info: img/image022.png  used on input line 346.
+Package pdftex.def Info: img/image022.png  used on input line 353.
 (pdftex.def)             Requested size: 350.99762pt x 438.01154pt.
- [29]
-Overfull \hbox (31.31601pt too wide) in paragraph at lines 355--356
+ [30]
+Overfull \hbox (31.31601pt too wide) in paragraph at lines 362--363
 \OT1/cmr/m/n/12 iterative design. By definition, \Engineers apply the knowledge
  of the mathematical
  []
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.356 \begin{quote}
+l.363 \begin{quote}
                     <./img/image022.png>]
-Overfull \hbox (4.27368pt too wide) in paragraph at lines 357--358
+Overfull \hbox (4.27368pt too wide) in paragraph at lines 364--365
 \OT1/cmr/m/n/12 materials, software, devices, systems, processes, and organizat
 ions.
  []
 
-<img/image023.png, id=491, 634.37pt x 900.36375pt>
-File: img/image023.png Graphic file (type png)
-<use img/image023.png>
-Package pdftex.def Info: img/image023.png  used on input line 367.
-(pdftex.def)             Requested size: 350.99762pt x 498.18283pt.
-[31] [32]
-Overfull \vbox (14.75948pt too high) has occurred while \output is active []
+<img/image024.png, id=524, 603.25375pt x 840.13875pt>
+File: img/image024.png Graphic file (type png)
+<use img/image024.png>
+Package pdftex.def Info: img/image024.png  used on input line 374.
+(pdftex.def)             Requested size: 350.99762pt x 488.81915pt.
+[32] [33]
+Overfull \vbox (5.3958pt too high) has occurred while \output is active []
 
 
-[33pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.371 
-       <./img/image023.png>]
-Overfull \hbox (2.41121pt too wide) in paragraph at lines 387--388
+l.378 
+       <./img/image024.png>]
+Overfull \hbox (2.41121pt too wide) in paragraph at lines 394--395
 []\OT1/cmr/m/n/12 Researching the opportunity can lead to consulting with exper
 ts because
  []
 
-[34]
-Overfull \hbox (19.09158pt too wide) in paragraph at lines 394--395
+[35]
+Overfull \hbox (19.09158pt too wide) in paragraph at lines 401--402
 []\OT1/cmr/m/n/12 Converging can lead to high-level prototyping because high-le
 vel prototypes
  []
 
-[35]
-Overfull \hbox (16.2805pt too wide) in paragraph at lines 424--425
+[36]
+Overfull \hbox (16.2805pt too wide) in paragraph at lines 432--433
 []\OT1/cmr/m/n/12 Argumentation enables me to better think through the decision
  if necessary
  []
 
 
-Overfull \hbox (19.18742pt too wide) in paragraph at lines 433--434
+Overfull \hbox (19.18742pt too wide) in paragraph at lines 441--442
 []\OT1/cmr/m/n/12 Following blindly without proper understanding/discussion of 
 each person's
  []
 
-[36]
-Overfull \hbox (1.00566pt too wide) in paragraph at lines 467--468
+[37]
+Overfull \hbox (1.00566pt too wide) in paragraph at lines 477--478
 []\OT1/cmr/m/n/12 Without proper research and understanding, brainstorming have
  useless
  []
 
-[37]
-Overfull \hbox (2.93343pt too wide) in paragraph at lines 477--478
+[38]
+Overfull \hbox (2.93343pt too wide) in paragraph at lines 488--489
 []\OT1/cmr/m/n/12 Divide a board into panels/sections for each high-level idea,
  opportunity,
  []
 
 
-Overfull \hbox (18.63464pt too wide) in paragraph at lines 480--481
+Overfull \hbox (18.63464pt too wide) in paragraph at lines 491--492
 []\OT1/cmr/m/n/12 Step away to look at a high-level overview and creatively rec
 ombing/diverge
  []
 
-[38]
-Overfull \hbox (19.74435pt too wide) in paragraph at lines 511--512
+[39]
+Overfull \hbox (19.74435pt too wide) in paragraph at lines 523--524
 \OT1/cmr/m/n/12 software/iterable projects with a clear dichotomy between core 
 and optimal/extra
  []
 
-[39]
-Overfull \hbox (17.54655pt too wide) in paragraph at lines 522--523
+[40]
+Overfull \hbox (17.54655pt too wide) in paragraph at lines 535--536
  []\OT1/cmr/bx/n/12 Drawbacks: [] \OT1/cmr/m/n/12 This only works well when the
  team shares a solid understanding
  []
 
 
-Overfull \hbox (16.21939pt too wide) in paragraph at lines 522--523
+Overfull \hbox (16.21939pt too wide) in paragraph at lines 535--536
 \OT1/cmr/m/n/12 that the team is comfortable with each other and share a common
  understanding. 
  []
 
 
-Overfull \hbox (26.70354pt too wide) in paragraph at lines 527--528
+Overfull \hbox (26.70354pt too wide) in paragraph at lines 541--542
  []\OT1/cmr/bx/n/12 How it works: [] \OT1/cmr/m/n/12 Shoshin is a buddhist conc
 ept that states that the inexperienced
  []
 
 
-Overfull \hbox (6.81949pt too wide) in paragraph at lines 533--534
+Overfull \hbox (6.81949pt too wide) in paragraph at lines 547--548
 \OT1/cmr/m/n/12 understanding of the opportunity is faulty (which is likely due
  to the purposeful
  []
 
-[40] [41]
-Overfull \hbox (14.3744pt too wide) in paragraph at lines 571--572
+[41] [42]
+Overfull \hbox (14.3744pt too wide) in paragraph at lines 589--590
  []\OT1/cmr/bx/n/12 How it works[] \OT1/cmr/m/n/12 One adds up the columns of a
  pugh chart for metrics/objectives
  []
 
 
-Overfull \hbox (4.87863pt too wide) in paragraph at lines 579--580
+Overfull \hbox (1.09239pt too wide) in paragraph at lines 594--595
+ []\OT1/cmr/bx/n/12 Why it works for me: [] \OT1/cmr/m/n/12 It allows me to \OT
+1/cmr/bx/n/12 triangulate \OT1/cmr/m/n/12 ([]4.16[]) our engineering
+ []
+
+
+Overfull \hbox (4.87863pt too wide) in paragraph at lines 597--598
  []\OT1/cmr/bx/n/12 Drawbacks: [] \OT1/cmr/m/n/12 If followed blindly, teams ca
 n easily be misled by the collective
  []
 
-[42]
-Overfull \hbox (12.32022pt too wide) in paragraph at lines 591--592
+[43]
+Overfull \hbox (12.32022pt too wide) in paragraph at lines 610--611
  []\OT1/cmr/bx/n/12 Drawbacks: [] \OT1/cmr/m/n/12 If the team members are not c
 omfortable with each other/open,
  []
 
-[43]
-Overfull \hbox (6.36255pt too wide) in paragraph at lines 640--641
+[44]
+Overfull \hbox (1.12114pt too wide) in paragraph at lines 656--657
+ []\OT1/cmr/bx/n/12 Highlighted Project(s): [] \OT1/cmr/m/n/12 UofT Consulting 
+Association Engagement ([]2.5[]) 
+ []
+
+
+Overfull \hbox (6.36255pt too wide) in paragraph at lines 662--663
 \OT1/cmr/m/n/12 especially with assessors in 100-level university courses and h
 igh school courses.
  []
 
-[44] [45]
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 701--702
+[45] [46]
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 726--727
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 703--704
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 728--729
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc102/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 707--708
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 732--733
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 709--710
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 734--735
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 711--712
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 736--737
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc102/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
-[46]
-Overfull \hbox (68.33093pt too wide) in paragraph at lines 713--714
+[47]
+Overfull \hbox (68.33093pt too wide) in paragraph at lines 738--739
 []\OT1/cmr/m/n/12 [12] \Devil," Merriam-Webster. [Online]. Available: []$\OT1/c
 mtt/m/n/12 https : / / www . merriam-[]webster .
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 717--718
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 742--743
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 721--722
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 746--747
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 725--726
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 750--751
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc102/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
 
-Overfull \hbox (7.5899pt too wide) in paragraph at lines 727--728
+Overfull \hbox (7.5899pt too wide) in paragraph at lines 752--753
 \OT1/cmr/m/n/12 Retrieved from []$\OT1/cmtt/m/n/12 https : / / courses . engsci
  . utoronto . ca / esc101/$[]\OT1/cmr/m/n/12 . [Accessed:
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 754.
-[47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 754.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 779.
+[48]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 779.
  (handbook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 754.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 754.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 779.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 779.
 Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: 974C91BA4E1EADE090FE5B10BA813009;3989.
+(rerunfilecheck)             Checksum: 7E9811FF4F39489B860E8720C4B14D8C;3990.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 754.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 779.
  ) 
 Here is how much of TeX's memory you used:
- 6849 strings out of 494866
- 103159 string characters out of 3176398
- 187221 words of memory out of 3000000
- 10201 multiletter control sequences out of 15000+200000
+ 6876 strings out of 494866
+ 103448 string characters out of 3176398
+ 188702 words of memory out of 3000000
+ 10227 multiletter control sequences out of 15000+200000
  9324 words of font info for 33 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 28i,6n,32p,1246b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,6n,32p,1283b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/abhargava/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
 e1/public/amsfonts/cm/cmbx12.pfb></Users/abhargava/Library/Application Support/
 MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/abhargav
@@ -949,9 +957,9 @@ ll/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/abhargava/Library/Applicat
 ion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></U
 sers/abhargava/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on handbook.pdf (47 pages, 23880600 bytes).
+Output written on handbook.pdf (48 pages, 23622372 bytes).
 PDF statistics:
- 749 PDF objects out of 1000 (max. 8388607)
- 238 named destinations out of 1000 (max. 500000)
+ 800 PDF objects out of 1000 (max. 8388607)
+ 239 named destinations out of 1000 (max. 500000)
  556 words of extra memory for PDF output out of 10000 (max. 10000000)
 

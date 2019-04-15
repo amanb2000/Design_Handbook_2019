@@ -71,15 +71,16 @@ My invented tools are valid because I have evidence in the form of my experience
 I have always been a project-oriented person, and I love doing projects. Using projects as case studies has been extremely valuable for my success in later projects. The following is a brief summation of some of my projects from the past year, since the beginning of Praxis I. I will present them in chronological order, discussing the project goals, process, and a brief holistic review.
 
 \subsection{Praxis I Design - Smart Hat}
+\label{sec:hat}
 For our Praxis I design project, Alice, Kelvin and I worked to improve the quality of sleep for Engsci’s in transit. We designed for effectiveness in terms of light and sound blockage, along with cost, comfort, durability, and aesthetics.
 
 \subsubsection{Process}
-We diverged a multitude of ideas using tools such as \textbf{extreme DfX} and then converged to a conceptual design via \textbf{system 1.5 analysis} and comparing our alternatives using high-level objectives via \textbf{logical argumentation and research}. We built a low-fidelity prototype using a Santa hat and a pair of cheap headphones to demonstrate our idea and to get a sense of the scale. Then, we used the \textbf{divide and conquer} design tool to divide our design exercise into many smaller design problems and did smaller rounds of framing, diverging, and converging for each detailed design decision. This enabled us to turn our conceptual design into a detailed, well-substantiated design.
+We diverged a multitude of ideas using tools such as \textbf{extreme DfX} (\ref{sec:extreme}) and then converged to a conceptual design via \textbf{system 1.5 analysis} and comparing our alternatives using high-level objectives via \textbf{logical argumentation and research}. We built a low-fidelity prototype using a Santa hat and a pair of cheap headphones to demonstrate our idea and to get a sense of the scale. Then, we used the \textbf{divide and conquer} (\ref{sec:conquer}) design tool to divide our design exercise into many smaller design problems and did smaller rounds of framing, diverging, and converging for each detailed design decision. This enabled us to turn our conceptual design into a detailed, well-substantiated design.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{img/image002.jpg}
-\caption{Demonstrating beta prototype. Our final design retained the shape presented but used \textbf{divide and conoquer} to add rigour to the fine details.}
+\caption{Demonstrating beta prototype. Our final design retained the shape presented but used \textbf{divide and conquer} (\ref{sec:conquer}) to add rigour to the fine details.}
 \label{}
 \end{figure}
 
@@ -97,25 +98,26 @@ The biggest lesson learned was that the design process is malleable. If one can 
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=1\textwidth]{img/image004.jpg}
+\includegraphics[width=0.9\textwidth]{img/image004.jpg}
 \caption{My initial proposal for the group to use the 'divide and conquer' method to finalize our design. The experience of changing the design process influenced the rest of my projects and my personal design process profoundly.}
 \label{}
 \end{figure}
 
 
 \subsection{CIV102 - Genetic Bridge Algorithm}
+\label{sec:bridge}
 The CIV102 bridge project is a staple of Engsci, but my biggest takeaway from it was a ‘side project’ of sorts that stemmed from the main project. We were tasked with making a matboard bridge that could hold the maximum amount of weight under some specified loading conditions. In class, we learned the formulae that would give the amount of weight a bridge would hold before failing by some arbitrary failure mechanism.
 
 \subsubsection{Process}
 
-As soon as I saw this assignment, I saw how it could easily be made into an optimization problem; the project had clear objective functions (formulae for failure loading), constraints (amount of matboard) and structure (a bridge). After discussing with our team, we decided it would be in our best interest if I were to take the time to code our bridge measurement formulae and attempt to make an optimization algorithm to generate the parameters for our bridge design. We came to this decision via an \textbf{expected value calculation} - we looked at the potential benefit to our grade (25\% bonus for ‘creative solutions’) and my chances of success (estimated fairly high given my background in programming and genetic algorithms).
+As soon as I saw this assignment, I saw how it could easily be made into an optimization problem; the project had clear objective functions (formulae for failure loading), constraints (amount of matboard) and structure (a bridge). After discussing with our team, we decided it would be in our best interest if I were to take the time to code our bridge measurement formulae and attempt to make an optimization algorithm to generate the parameters for our bridge design. We came to this decision via an \textbf{expected value calculation} (\ref{sec:value}) - we looked at the potential benefit to our grade (25\% bonus for ‘creative solutions’) and my chances of success (estimated fairly high given my background in programming and genetic algorithms).
 
-I chose a genetic algorithm because it mirrors the design process that Professor Collins teaches - it is literally a \textbf{rapid, (automated) iterative design process}. This worked fantastically well in creating extremely strong bridge designs (designs predicted to withstand more than 3 kilonewtons), and our group was still able to do well despite the fact we struggled with implementing the design due to the fact that we managed the risk well (performed \textbf{expected value calculations}).
+I chose a genetic algorithm because it mirrors the design process that Professor Collins teaches - it is literally a \textbf{rapid, (automated) iterative design process} (\ref{sec:automated}). This worked fantastically well in creating extremely strong bridge designs (designs predicted to withstand more than 3 kilonewtons), and our group was still able to do well despite the fact we struggled with implementing the design due to the fact that we managed the risk well (performed \textbf{expected value calculations} (\ref{sec:value})).
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{img/image005.png}
-\caption{The output of the evolution program. This improved our \textbf{expected value calculations} because we could test it against our paper calculations easily and trace bugs in the code back to their functions based on this output.}
+\caption{The output of the evolution program. This improved our \textbf{expected value calculations} (\ref{sec:value}) because we could test it against our paper calculations easily and trace bugs in the code back to their functions based on this output.}
 \label{}
 \end{figure}
 
@@ -130,6 +132,7 @@ I chose a genetic algorithm because it mirrors the design process that Professor
 From this project, I learned the importance of having a firm grasp on the {mathematics, science, history} behind any given opportunity. If I didn’t know the formulae for bridge failure loads, there would have been no way for me to create the genetic algorithm. Furthermore, in the words of Professor Collins, “one must know the answer before they solve the problem” - we would not have been able to make a good expected value calculation if we didn’t know how other teams had fared in the past (i.e. the history).
 
 \subsection{Praxis II Launcher}
+\label{sec:launch}
 This project was refreshingly short-term compared to the last two. The underlying principle was also significantly simpler - the formulae we initially applied were readily apparent from our PHY180 course, and there was no underlying sociological/psychological literature to catch up on.
 
 \begin{figure}[H]
@@ -140,7 +143,7 @@ This project was refreshingly short-term compared to the last two. The underlyin
 \end{figure}
 
 \subsubsection{Process}
-Since this was such a short-term project, we didn’t follow any given design model in particular. Instead, we started with a \textbf{solo to group brainstorming} session, and from then argued for each of our overall ideas. Every argument we made was tied to our main objective of getting the highest mark possible (i.e. getting the highest accuracy possible). That was our ground from which we made our claims. We used this productive \textbf{team argumentation} flow to narrow down our conceptual design based on which one we thought had the best chance of getting the ball accurately into the box, and then we argued over the engineering sub-decisions such as which fasteners to use and what type of projectile to use (in a similar manner to the \textbf{divide and conquer technique}). We began fabrication once we were satisfied that our design was optimized enough for the assignment.
+Since this was such a short-term project, we didn’t follow any given design model in particular. Instead, we started with a \textbf{solo to group brainstorming} (\ref{sec:solo}) session, and from then argued for each of our overall ideas. Every argument we made was tied to our main objective of getting the highest mark possible (i.e. getting the highest accuracy possible). That was our ground from which we made our claims. We used this productive \textbf{team argumentation} (\ref{sec:argue}) flow to narrow down our conceptual design based on which one we thought had the best chance of getting the ball accurately into the box, and then we argued over the engineering sub-decisions such as which fasteners to use and what type of projectile to use (in a similar manner to the \textbf{divide and conquer technique} (\ref{sec:conquer})). We began fabrication once we were satisfied that our design was optimized enough for the assignment.
 
 \begin{figure}[H]
 \centering
@@ -150,9 +153,10 @@ Since this was such a short-term project, we didn’t follow any given design mo
 \end{figure}
 
 \subsubsection{Holistic Review}
-In the end, our design performed very well and only missed the target once in all of our trials. I believe that our argumentation process was a major contributor to this. We all had just finished PHY180 and CIV102 and therefore had a good grasp on the underlying concepts for building a launcher. This is what really enabled us to use the continuous \textbf{team argumentation} process to narrow down both our conceptual design and each of our small design decisions, as we all had a common ground upon which to stand when making our arguments. Our goal was clear along with our knowledge of how to reach it using PHY180 and CIV102 concepts and formulae.
+In the end, our design performed very well and only missed the target once in all of our trials. I believe that our argumentation process was a major contributor to this. We all had just finished PHY180 and CIV102 and therefore had a good grasp on the underlying concepts for building a launcher. This is what really enabled us to use the continuous \textbf{team argumentation} (\ref{sec:argue}) process to narrow down both our conceptual design and each of our small design decisions, as we all had a common ground upon which to stand when making our arguments. Our goal was clear along with our knowledge of how to reach it using PHY180 and CIV102 concepts and formulae.
 
 \subsection{UofT Consulting Association Engagement: CareRelay}
+\label{sec:UTCA}
 I was a member of the UTCA SCG (University of Toronto Consulting Group Startup Consulting Group) from September 2018 to April of 2019. Our goal was to assist the company CareRelay with their healthcare apps’ onboarding, user retention, and user acquisition process. 
 
 \begin{figure}[H]
@@ -164,7 +168,7 @@ I was a member of the UTCA SCG (University of Toronto Consulting Group Startup C
 
 \subsubsection{Process}
 Helping this company involved a lot of research and a significant amount of reference design comparisons. As the only first-year student on the team and one of the few non-graduate students, I had to carefully consider my input to the team. I didn’t want to upset our group leader or make it seem like I knew better than them just because I am in engineering. However, I was able to implement some engineering design concepts that helped us in both coming up with our solutions and communicating them.
-In almost all of our suggestions to the company, we \textbf{triangulated} our research with multiple companies, guides, and research papers. This enabled us to significantly increase our level of rigour and certainty in addition to our ethos with the company. Overall, triangulation was a highly valuable tool that improved our trust in our own suggestions as well as the companies trust us and our suggestions.
+In almost all of our suggestions to the company, we \textbf{triangulated} (\ref{sec:tri}) our research with multiple companies, guides, and research papers. This enabled us to significantly increase our level of rigour and certainty in addition to our ethos with the company. Overall, triangulation was a highly valuable tool that improved our trust in our own suggestions as well as the companies trust us and our suggestions.
 
 \begin{figure}[H]
 \centering
@@ -173,7 +177,7 @@ In almost all of our suggestions to the company, we \textbf{triangulated} our re
 \label{}
 \end{figure}
 
-One of the primary ways in which I did this was by encouraging the group to use a \textbf{how/wow/now matrix} to present our suggestions to the company. This essentially involves plotting each idea on the two axes of value and difficulty of implementation. The cluster that is high in value and low in difficulty of implementation are “wow” ideas, the ones high in value and high in difficulty of implementation are “how”, and the ideas low in value and low n difficulty of implementation are “now”. The client found this very useful, and they even referenced it in a job interview I recently had with them.
+One of the primary ways in which I did this was by encouraging the group to use a \textbf{how/wow/now matrix} (\ref{sec:how}) to present our suggestions to the company. This essentially involves plotting each idea on the two axes of value and difficulty of implementation. The cluster that is high in value and low in difficulty of implementation are “wow” ideas, the ones high in value and high in difficulty of implementation are “how”, and the ideas low in value and low n difficulty of implementation are “now”. The client found this very useful, and they even referenced it in a job interview I recently had with them.
 
 \begin{figure}[H]
 \centering
@@ -186,15 +190,16 @@ One of the primary ways in which I did this was by encouraging the group to use 
 I believe that there is a lot of room in consulting to further implement engineering strategies to become more and more rigorous. The more tools in one’s toolbox one brings to an opportunity, the higher their chances of success. When it comes to ideas for understanding, generating, eliminating, and showing ideas, consulting is clearly an are that can always use more.
 
 \subsection{Play the Orchestra (MakeUofT)}
+\label{sec:orch}
 
 I had the privilege of working with Eli Scott, Helen Newton, and Adam Carnaffan (all EngSci 2T2) at MakeUofT 2019, the largest makeathon in Canada, to actualize our idea of playing the orchestra. We created a product that allows a user to effectively play a live orchestra in real time via a MIDI keyboard. It takes in the MIDI data from the keyboard and intelligently routes each note of the chord to the screens in front of different members of the orchestra to be played. It also incorporates custom chord analysis and prediction software, in addition to a physical display unit that we build out of a Raspberry Pi. 
 
 \subsubsection{Process}
 We had just finished our first round of midterms, and it was the end of the week before reading week. We were all tired, but we forced ourselves to meet at a coffee shop the night before the hackathon. The theme of the hackathon was connectivity and internet of things, and since it was a makeathon, our minds were filled with ideas of swarm robotics and robots that could connect to sensors and more. Toward the end of our meeting, we tentatively settled on the idea of making a swarm of small robots that could intelligently assemble in order to move very large objects, assigning just enough robots to lift the object to increase efficiency over conventional forklift robots.
 
-However, one of our team members, Helen Newton, was dubious of the feasibility of the project. She could not imagine building an entire swarm of robots that could communicate with each other and intelligently parse that data within 24 hours. Looking back on the process, it is clear that she was correct. At the time, however, it seemed like she was really playing \textbf{devil’s advocate}. She did this continuously for the duration of the meeting and continued to poke holes in the ideas as we tried to ammend our ideas to make them more feasible. This resulted in us picking the Play the Orchestra idea.
+However, one of our team members, Helen Newton, was dubious of the feasibility of the project. She could not imagine building an entire swarm of robots that could communicate with each other and intelligently parse that data within 24 hours. Looking back on the process, it is clear that she was correct. At the time, however, it seemed like she was really playing \textbf{devil’s advocate} (\ref{sec:devil}). She did this continuously for the duration of the meeting and continued to poke holes in the ideas as we tried to ammend our ideas to make them more feasible. This resulted in us picking the Play the Orchestra idea.
 
-Once our idea was picked, we were ready to start developing the idea during the hackathon the next day. Since I was the only person on the team who had participated in a hackathon before and experience with the development side of things that would be required to develop our product, I was a primary planner for how we would tackle the problem. In my experience, teams who do well in hackathons tend to incorporate the sponsor’s technologies and have an interesting, flashy design that fits well with the theme of the event. I wanted our final solution to have those aspects, but I also wanted us to be able to have something to show for our work as quickly as possible. I remembered how, in a game development lecture from a UOIT student group, they discussed the concept of a \textbf{MVP (Minimum Viable Product)}. A good MVP communicated the key functionality of the product with the least possible work. My plan for creating our final product was to get that done as soon as possible then add to it as time went on.
+Once our idea was picked, we were ready to start developing the idea during the hackathon the next day. Since I was the only person on the team who had participated in a hackathon before and experience with the development side of things that would be required to develop our product, I was a primary planner for how we would tackle the problem. In my experience, teams who do well in hackathons tend to incorporate the sponsor’s technologies and have an interesting, flashy design that fits well with the theme of the event. I wanted our final solution to have those aspects, but I also wanted us to be able to have something to show for our work as quickly as possible. I remembered how, in a game development lecture from a UOIT student group, they discussed the concept of a \textbf{MVP (Minimum Viable Product, \ref{sec:MVP})}. A good MVP communicated the key functionality of the product with the least possible work. My plan for creating our final product was to get that done as soon as possible then add to it as time went on.
 
 \begin{figure}[H]
 \centering
@@ -226,17 +231,18 @@ In the end, we won third place overall (competing against teams of 4th year stud
 
 \subsubsection{Holistic Review}
 
-Helen playing the \textbf{devil’s advocate}, as well as our use of the \textbf{MVP} framework really drove our success in the hackathon. I also think that the importance of a solid team dynamic where each person trusts that the goal of each other person is to advance the project is import, along with a hierarchy of believability that each person can use to decide the degree to which they ought argue/accept each claim made by others in each domain of the project. For example, I readily gave into claims made by Adam when it came to networking because he had the most experience and expertise in the field and was therefore the most believable by far. Only if I were very sure of my reasoning and facts would I argue against his claims. Likewise, Eli was the most believable when it came to finding the best way for us to document and describe our process due to her clear competence in the field based on her past achievements and success in Praxis I. This sort of \textbf{believability-weighted decision making} is very important and valuable for making good decisions quickly and taking advantage of each person’s expertise on a given team.
+Helen playing the \textbf{devil’s advocate} (\ref{sec:devil}), as well as our use of the \textbf{MVP} (\ref{sec:MVP}) framework really drove our success in the hackathon. I also think that the importance of a solid team dynamic where each person trusts that the goal of each other person is to advance the project is import, along with a hierarchy of believability that each person can use to decide the degree to which they ought argue/accept each claim made by others in each domain of the project. For example, I readily gave into claims made by Adam when it came to networking because he had the most experience and expertise in the field and was therefore the most believable by far. Only if I were very sure of my reasoning and facts would I argue against his claims. Likewise, Eli was the most believable when it came to finding the best way for us to document and describe our process due to her clear competence in the field based on her past achievements and success in Praxis I. This sort of \textbf{believability-weighted decision making} (\ref{sec:believe}) is very important and valuable for making good decisions quickly and taking advantage of each person’s expertise on a given team.
 
 I would also like to point out that, in the lecture in which he introduced the idea of an MVP in engineering design, Prof. Foster referenced our documentation for our hackathon project [1].
 
 \subsection{Praxis II Firefighter RFP Implementation}
+\label{sec:fire}
 For our Praxis II project, Amy, Haochen, Yannis and I worked on the firefighters RFP that requested a solution to the lack of situational awareness in firefighting.
 
 \subsubsection{Process}
 We picked our RFP based on how interesting we thought it would be to work with the stated group and how interesting it would be to work on their problem. The most interesting one to us by far was working with firefighters on situational awareness. Firefighters have important and interesting jobs and situational awareness has a lot of potential to be improved by engineering and technology.
 
-We began by scoping outward from the RFP because we felt that the requirement for our solution to help with both pathfinding and situational awareness really pushed toward a very specific type of situational awareness. After scoping out to just situational awareness, we did some research during the studio where we were supposed to be using “as many tools as possible” in order to diverge, much to chagrin of Professor Patricia Sheridan. We did this because we felt that we didn’t have enough of an understanding of the field from the RFP in order to properly diverge well. We thought our \textbf{pareto curve} would be optimized if we were to research and then diverge. Once we felt we had enough research to do some effective diverging, we did some \textbf{multi-panel diverging} on the provided whiteboards. This was highly effective as it allowed us to \textbf{creatively recombine} various ideas, and we were able to literally take a step back from the board when we wanted to think in a more big-picture way and recombine ideas and take a step toward the board when we wanted to expand on one particular idea. We came up with three main ways to help the firefighters with situational awareness:
+We began by scoping outward from the RFP because we felt that the requirement for our solution to help with both pathfinding and situational awareness really pushed toward a very specific type of situational awareness. After scoping out to just situational awareness, we did some research during the studio where we were supposed to be using “as many tools as possible” in order to diverge, much to chagrin of Professor Patricia Sheridan. We did this because we felt that we didn’t have enough of an understanding of the field from the RFP in order to properly diverge well. We thought our \textbf{pareto curve} (\ref{sec:pareto}) would be optimized if we were to research and then diverge. Once we felt we had enough research to do some effective diverging, we did some \textbf{multi-panel diverging} (\ref{sec:panel}) on the provided whiteboards. This was highly effective as it allowed us to \textbf{creatively recombine} various ideas, and we were able to literally take a step back from the board when we wanted to think in a more big-picture way and recombine ideas and take a step toward the board when we wanted to expand on one particular idea. We came up with three main ways to help the firefighters with situational awareness:
 
 \begin{enumerate}
 	\item Incorporating gas sensors into each firefighter’s suit to localize the fire/classify the type of fire.
@@ -259,7 +265,7 @@ We began by scoping outward from the RFP because we felt that the requirement fo
 \end{figure}
 
 
-When we had our first stakeholder interaction, they were fairly neutral when it came to the first two ideas, but they really liked the last idea about entry control. We created prototypes for each of them to get a better sense of what it would be like to actually implement them, and we presented our work at beta. We used \textbf{multi-vote} to narrow down to just the entry control board idea, and then used \textbf{sensitivity analysis} to confirm our choice. The multi-vote was very effective because the team’s interest and belief in the idea was an important quality for our project, and the sensitivity analysis enabled us to confirm that our mental models for evaluating the situation were consistent with a numerically encoded and agreed upon model of that same situation.
+When we had our first stakeholder interaction, they were fairly neutral when it came to the first two ideas, but they really liked the last idea about entry control. We created prototypes for each of them to get a better sense of what it would be like to actually implement them, and we presented our work at beta. We used \textbf{multi-vote} (\ref{sec:multi}) to narrow down to just the entry control board idea, and then used \textbf{sensitivity analysis} (\ref{sec:sense}) to confirm our choice. The multi-vote was very effective because the team’s interest and belief in the idea was an important quality for our project, and the sensitivity analysis enabled us to confirm that our mental models for evaluating the situation were consistent with a numerically encoded and agreed upon model of that same situation.
 
 \begin{figure}[H]
 \centering
@@ -268,7 +274,7 @@ When we had our first stakeholder interaction, they were fairly neutral when it 
 \label{}
 \end{figure}
 
-We had very positive feedback from our beta release, and it was at this point that we started on our more intense UI, cognitive load, and human error research to create our UI requirements model. Taking an idea from the famous Steve Jobs, a titan of design, we created our first rough prototype using the \textbf{shoshin} approach; we did no research beforehand and simply tried to generate what an entry control board ought to look like from first principles. It is a technique that essentially minimizes anchoring bias. Our shoshin prototype formed a great basis for our \textbf{iterative design} process. Our second prototype took a small step towards realism by incorporating some of our research.
+We had very positive feedback from our beta release, and it was at this point that we started on our more intense UI, cognitive load, and human error research to create our UI requirements model. Taking an idea from the famous Steve Jobs, a titan of design, we created our first rough prototype using the \textbf{shoshin} (\ref{sec:shoshin}) approach; we did no research beforehand and simply tried to generate what an entry control board ought to look like from first principles. It is a technique that essentially minimizes anchoring bias. Our shoshin prototype formed a great basis for our \textbf{iterative design} (\ref{sec:iter}) process. Our second prototype took a small step towards realism by incorporating some of our research.
 
 \begin{figure}[H]
 \centering
@@ -277,7 +283,7 @@ We had very positive feedback from our beta release, and it was at this point th
 \label{}
 \end{figure}
 
-At this point I began work on our third version that would hopefully be testable. It was a barebones version of an entry control board where every team and option was already hard-coded in. It functioned as an \textbf{MVP} for our testing and showcase, as well as a proof of concept that the javascript library Angular.js could accomplish all the things we wanted from our digital entry control board.
+At this point I began work on our third version that would hopefully be testable. It was a barebones version of an entry control board where every team and option was already hard-coded in. It functioned as an \textbf{MVP} (\ref{sec:MVP}) for our testing and showcase, as well as a proof of concept that the javascript library Angular.js could accomplish all the things we wanted from our digital entry control board.
 
 \begin{figure}[H]
 \centering
@@ -295,7 +301,7 @@ From version 3.2-3.5, I iterated our design with the help of our UI requirements
 \label{}
 \end{figure}
 
-Meanwhile, we made a separate set of requirements for an improved analogue board to address more immediate issues from our stakeholder interactions. In order to make engineering sub-decisions, we used \textbf{pugh charts} to decide on such elements as which clock to use, which board type, which pen type, and more.
+Meanwhile, we made a separate set of requirements for an improved analogue board to address more immediate issues from our stakeholder interactions. In order to make engineering sub-decisions, we used \textbf{pugh charts} (\ref{sec:pugh}) to decide on such elements as which clock to use, which board type, which pen type, and more.
 
 \begin{figure}[H]
 \centering
@@ -308,6 +314,7 @@ Meanwhile, we made a separate set of requirements for an improved analogue board
 Though we haven’t received our grades for showcase yet, I believe that we will receive a high grade because of our well-implemented iterative design process and the quality of both testable and functional prototype that it produced. Our process allowed us to plug many potential holes in our design as well as to be aware of outlying holes in advance of our presentation.
 
 \subsection{Recursive Self-Actualization}
+\label{sec:self}
 Since I was very young, I have had a firm belief that I am capable of accomplishing my goal of changing the world for the better in a significant way. I have always believed that was at least \textit{capable} of anything, I just needed time and resources.
 
 However, for the first ~15 years of my life, you would have very few reasons to believe me. I was a lazy student with poor grades, didn’t have any interesting projects under my belt, and spent most of my time watching videos on the internet. I was pretty good at closeup card magic and speedcubing, but I wasn’t close to being the best in the world by any means.
@@ -364,7 +371,7 @@ I believe that this is a strong example of engineering, and that the techniques 
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.9\textwidth]{img/image023.png}
+\includegraphics[width=0.9\textwidth]{img/image024.png}
 \caption{Red numbers indicate where each tool described in the tool section might be used. Decisions about which path to take from a given node are to be made by the team on a subjective basis, but can be informed by the description of process shown below.}
 \label{}
 \end{figure}
@@ -407,10 +414,11 @@ I believe that this is a strong example of engineering, and that the techniques 
 
 
 
-\section{Tools Index}
+\section{Tools Index \label{Tools}}
 \textit{Note: Unreferenced tools were created by me.}
 \subsection{Multi-vote [4]}
-\paragraph{Highlighted Project(s): }
+\label{sec:multi}
+\paragraph{Highlighted Project(s): } Praxis II Firefighter RFP Implementation \ref{sec:fire}
 \paragraph{How it works: } 
 Used for converging, especially when team interest, biases, etc. are to be considered in the decision.
 \begin{itemize}
@@ -434,7 +442,8 @@ Used for converging, especially when team interest, biases, etc. are to be consi
 \end{itemize}
 
 \subsection{How/wow/now matrix [5]}
-\paragraph{Highlighted Project(s): }
+\label{sec:how}
+\paragraph{Highlighted Project(s): } UofT Consulting Association Engagemen (\ref{sec:UTCA})
 \paragraph{How it works: } 
 \begin{itemize}
 \item Form a graph with axes {difficulty of implementation, expected value}
@@ -454,7 +463,8 @@ I tend to lead my teams, and I need a way to prioritize who to put on which task
 It’s more of a tool to reveal what you think already about the ideas - not a tool to make novel decisions. It doesn’t do much to take care of your biases - if you are biased to {like, dislike} an idea, you will run into problems with ranking them too high/low in the axes.
 
 \subsection{Solo to Group Brainstorming [6]}
-\paragraph{Highlighted Project(s): }
+\label{sec:solo}
+\paragraph{Highlighted Project(s): } Praxis II Launcher
 \paragraph{How it works: } 
 Each person takes 1 < n < 5 minutes alone to brainstorm ideas for a given {opportunity, problem, objective, etc.}. The group then comes together to share their ideas and evaluate potential {connections, hierarchies, etc.}
 
@@ -471,7 +481,8 @@ I value creativity, and this helps for more unique ideas to come forward. When b
 \end{itemize}
 
 \subsection{Multi-Panel Diverging}
-\paragraph{Highlighted Project(s): }
+\label{sec:panel}
+\paragraph{Highlighted Project(s): } Praxis II Firefighter RFP Implementation (\ref{sec:fire})
 \paragraph{How it works: }
 \begin{itemize}
 	\item Divide a board into panels/sections for each high-level {idea, opportunity, alternative, etc.}
@@ -495,7 +506,8 @@ I value creativity, and this helps for more unique ideas to come forward. When b
 \end{itemize}
 
 \subsection{Minimum Viable Product (MVP) [7]}
-\paragraph{Highlighted Project(s): }
+\label{sec:MVP}
+\paragraph{Highlighted Project(s): } Play the Orchestra (\ref{sec:orch})
 \paragraph{How it works: }
 The minimum viable product is a version of the product that involves the minimum amount of work possible in order to communicate the important ideas in the product.
 
@@ -511,7 +523,8 @@ The minimum viable product is a version of the product that involves the minimum
 Does not make sense for all projects - very biased toward software/iterable projects with a clear dichotomy between core and optimal/extra functionalities. Therefore one must evaluate the predicted solution space to ensure that a good number of the possible solutions fit this criteria before using this tool.
 
 \subsection{Continuous Argument}
-\paragraph{Highlighted Project(s): }
+\label{sec:argue}
+\paragraph{Highlighted Project(s): } Praxis II Launcher (\ref{sec:launch})
 \paragraph{How it works: }
 A team continuously argues over why any number of alternatives are good. The team recombines the best aspects and filters down to the best ideas in order to arrive at a final solution.
 
@@ -522,7 +535,8 @@ I find argumentation allows me to clarify and improve my mental models of any gi
 This only works well when the team shares a solid understanding of the underlying concepts AND are able to effectively communicate and argue their ideas pertaining to the alternatives. Therefore, one must ensure that the team is comfortable with each other and share a common understanding.
 
 \subsection{Shoshin Prototyping [8]}
-\paragraph{Highlighted Project(s): }
+\label{sec:shoshin}
+\paragraph{Highlighted Project(s): } Praxis II Firefighters RFP Implementation (\ref{sec:fire})
 \paragraph{How it works: }
 Shoshin is a buddhist concept that states that the inexperienced mind is more innovative and creative than the experienced one. It helps to minimizing a team’s anchoring bias. To implement a shoshin prototype, a team must not have engaged in significant research on the subject before hand. They generate a minimalist solution based on their first-principles understanding of the problem.
 
@@ -533,7 +547,8 @@ I value the first-principles approach, and I believe in the power of iterative d
 Shoshin prototypes can be completely useless if the team’s understanding of the opportunity is faulty (which is likely due to the purposeful lack of research). Furthermore, there is a strong chance that the team will miss a great idea that a reference design might incorporate. Therefore, shoshin prototypes must be used purposefully and be evaluated critically, and a team should always be willing to throw out the prototype.
 
 \subsection{Extreme DfX [9]}
-\paragraph{Highlighted Project(s): }
+\label{sec:extreme}
+\paragraph{Highlighted Project(s): } Praxis I Design - Smart Hat (\ref{sec:hat})
 \paragraph{How it works: }
 Making different alternatives to solve a problem, each of which takes one design objective to an extreme.
 
@@ -544,7 +559,8 @@ I value open mindedness, and this approach enables one to open their mind to man
 Depending on the number of design objectives, this can take a very long time. Group members that are highly concerned with time efficiency and direct progress may become frustrated with the seemingly roundabout way by which this method functions. Therefore, the group must be sufficiently open minded to (potentially) wasting time and having some absurd fun during the design process.
 
 \subsection{Divide and Conquer}
-\paragraph{Highlighted Project(s): }
+\label{sec:conquer}
+\paragraph{Highlighted Project(s): } Praxis I Design - Smart Hat (\ref{sec:hat})
 \paragraph{How it works: }
 After deciding on a high-level design, the team works to divide the design into many sub-decisions. The group then runs the design process like a fractal on the sub-decisions in order to generate a final detailed design.
 
@@ -555,7 +571,8 @@ I value efficiency. Divide and conquer increases efficiency because, instead of 
 The team must be wary as to the level of rigour they use on each sub-design decision. In the worst case scenario, it can feel like doing 6+ full design projects. The team must learn to balance the importance of each sub-design decision with the amount of time/rigour allocated to it.
 
 \subsection{Pugh Chart [10]}
-\paragraph{Highlighted Project(s): }
+\label{sec:pugh}
+\paragraph{Highlighted Project(s): } Praxis II Firefighter RFP Implementation (\ref{sec:fire})
 \paragraph{How it works: }
 The team creates a ratings matrix for metrics or objectives from the requirements model and selects one design as a reference design. Plus signs are added where one design outperforms the reference, zeros for where they are equal, and negative signs where the reference outperforms the given design. Engineering arguments are made based on this in order to converge from the initial number of alternatives.
 
@@ -566,20 +583,22 @@ It enables a team to more efficiently view and argue for why none design might o
 Ratings matrix take a long time to make, and pugh charts do to. It is tempting to blindly follow the sums of the columns to make a decision. Therefore the team must be wary as to how often they use pugh charts to compare alternatives.
 
 \subsection{Sensitivity Analysis [11]}
-\paragraph{Highlighted Project(s): }
+\label{sec:sense}
+\paragraph{Highlighted Project(s): } Praxis II Firefighter RFP Implementation (\ref{sec:fire})
 \paragraph{How it works}
 One adds up the columns of a pugh chart for metrics/objectives of each alternative. Observe how the top ranked alternative(s) change as the weight of each metric/objective is tuned.
 
 Sensitivity analysis can also apply to other decision making tools that can be made more numerical.
 
 \paragraph{Why it works for me: }
-It allows me to \textbf{triangulate} our engineering argumentation/design process and make sure that there isn’t something that we are missing in our numerical model of the decision or in our mental model of the decision.
+It allows me to \textbf{triangulate} (\ref{sec:tri}) our engineering argumentation/design process and make sure that there isn’t something that we are missing in our numerical model of the decision or in our mental model of the decision.
 
 \paragraph{Drawbacks: }
 If followed blindly, teams can easily be misled by the collective error of approximated weight/ranking values. Therefore, teams must use this in conjunction with other decision making techniques in order to extract maximal benefit.
 
 \subsection{Devil’s Advocate [12]}
-\paragraph{Highlighted Project(s): }
+\label{sec:devil}
+\paragraph{Highlighted Project(s): } Play the Orchestra (\ref{sec:orch})
 
 \paragraph{How it works: }
 A person will disagree with the consensus of the team for the sake of disagreeing in order to reveal potential flaws in the reasoning of the team.
@@ -591,7 +610,7 @@ Creative arguments must be made, and it is an efficient way to find holes in the
 If the team members are not comfortable with each other/open, this can cause resentment between members. If the devil’s advocate doesn’t know when to stop or becomes too invested in disagreeing, they can inhibit the progress of the team. Therefore, the team must first be comfortable enough and be self-aware enough to not harm the progress of the team by playing devil’s advocate.
 
 \subsection{80-20 Risk Management Analysis}
-\paragraph{Highlighted Project(s): }
+\paragraph{Highlighted Project(s): } Recursive Self-Actualization (\ref{sec:self})
 
 \paragraph{How it works: }
 When trying to accomplish something, try to determine what 20\% of possible actions that will push that thing to fruition will cause 80\% of the progress.
@@ -603,7 +622,8 @@ This increases efficiency and has helped me to clarify my mental model of comple
 It can be difficult to adequately determine which exactly 20\% of things will cause exactly 80\% of the progress - these are just guideline numbers to start the process of optimization, and the user of this must realize that.
 
 \subsection{Pareto Curve Optimization [14]}
-\paragraph{Highlighted Project(s): }
+\label{sec:pareto}
+\paragraph{Highlighted Project(s): } CIV102 Bridge Project (\ref{sec:bridge})
 
 \paragraph{How it works: }
 Tool to talk about your rate of progress on a given activity (e.g. “our pareto curve is great because we are making fast progress because of {something}”). Optimizing this is a very solid way to make fast progress in time-sensitive assignments.
@@ -619,7 +639,8 @@ It must be clear what variable the pareto curve is with respect to: is it progre
 
 
 \subsection{Expected Value Calculations}
-\paragraph{Highlighted Project(s): }
+\label{sec:value}
+\paragraph{Highlighted Project(s): } CIV102 Bridge Project (\ref{sec:bridge})
 
 \paragraph{How it works: }
 In order to calculate the expected value of an action, they multiply the projected reward from the successful outcome of the action by the chance of success in that action. Actions with higher expected values are to be prioritized.
@@ -631,7 +652,8 @@ It helps with quantifying efficiency (one of my values). It is also a great tool
 It is difficult to find a good proxy for ‘value’. Disconnect with respect to the projected ‘value’ of an action must be addressed quickly to ensure that one had common ground with their teammates.
 
 \subsection{Triangulation}
-\paragraph{Highlighted Project(s): }
+\label{sec:tri}
+\paragraph{Highlighted Project(s): } UofT Consulting Association Engagement (\ref{sec:UTCA})
 
 \paragraph{How it works: }
 Substantiating claims by referencing multiple sources.
@@ -644,7 +666,8 @@ Takes significant time, so the team must prioritize the most important claims th
 
 
 \subsection{Believability-weighted decision making [17]}
-\paragraph{Highlighted Project(s): }
+\label{sec:believe}
+\paragraph{Highlighted Project(s): } Play the Orchestra (\ref{sec:orch})
 
 \paragraph{How it works: }
 When making a decision with multiple people’s inputs, one must value the input of each person proportionally to their believability.
@@ -658,7 +681,8 @@ Assigning believability requires one to understand the field and do proper resea
 
 
 \subsection{Iterative design [18]}
-\paragraph{Highlighted Project(s): }
+\label{sec:iter}
+\paragraph{Highlighted Project(s): } Praxis II Firefighter RFP Implementation (\ref{sec:fire})
 
 \paragraph{How it works: }
 Changing a design relatively small amounts at a time, making changes based on feedback from {requirements model, user feedback, team feedback, stakeholder feedback}.
@@ -670,7 +694,8 @@ I appreciate the rigour this applies and the holes in the design that it helps t
 Takes time, only applicable when the high-level design has been locked in. If done too early, it can make people experience the sunk cost fallacy - it takes a lot of effort to iterate, and a team feels locked into the high-level design.
 
 \subsection{Rapid, automated iterative design [19]}
-\paragraph{Highlighted Project(s): }
+\label{sec:automated}
+\paragraph{Highlighted Project(s): } CIV102 Bridge Project (\ref{sec:bridge})
 
 \paragraph{How it works: }
 Coding a model for the high-level design into a computer and having it optimizing using {genetic algorithm, gradient descent, etc.}.
