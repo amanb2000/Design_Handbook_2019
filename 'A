@@ -1,0 +1,93 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{listings}
+
+\usepackage{hyperref}
+
+\begin{document}
+
+\title{Bhargava Design Handbook}
+\author{Aman Bhargava}
+\date{\today}
+\maketitle
+
+\tableofcontents
+
+\section{Identity}
+\subsection{A Brief Biography}
+My name is Aman Bhargava, and I am currently an Engineering Science student at the University of Toronto. I was born and raised in the state of Maine in the United States, and I moved to Cobourg, Ontario when I was 12.
+
+\subsection{My Values}
+I value altruism, creativity/open-mindedness, efficiency, and practicality. Figure 1 represents the flowchart of goodness I see these forming.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{img/image001.png}
+\caption{Figure 1: How my values integrate with the steps to my goal of significantly and positively changing the world.}
+\label{}
+\end{figure}
+
+I believe that this general cycle has the power to have a significant and positive effect on the world, which is one of my most deeply-held ambitions in life.
+
+\subsection{Skills}
+\begin{enumerate}
+\item Team organization and leadership: Through my experience in leading group projects in school, university, hackathons and more, I have learned how to run an effective, goal-driven team.
+\item Programming: I have confidence in my ability to implement ideas into software, at least in such a way that can communicate a basic idea.
+\item Data Analysis: I am competent with data visualization, basic statistics, supervised machine learning, and basic clustering.
+\item Fabrication: I am competent with basic fabrication tools, namely those found in the Light Fabrication Facility (3D-printing, laser cutting, foam core, basic carpentry, arduino/raspberry pi programming)
+\item Argumentation: As a former provincial debater, I believe in my ability to effectively use argumentation to get closer to the truth in the vast majority of issues that I am able to understand.
+\item Research: I am able to effectively utilize engineering and scholarly libraries and databases to get the information that I need.
+\item Self-learning: My ability to learn things as needed on my own has proven useful time and time again in all of my projects.
+\end{enumerate}
+
+\subsection{Biases}
+Everything I have written so far in this introduction is a potential bias. Due to my experience in programming, I am likely overly willing to go down the technological route to solve problems without considering non-technological solutions. Because I pride myself in my ability to teach myself, I am less likely than would be optimal to ask for help or consider the possibility of a project being out of my abilities.
+
+Beyond the biases I have implicitly defined in this introduction, I think that my personality makes me overly willing to go outside the box for projects. Because I value creativity so highly, I find it boring to go by the book and am susceptible to the temptation of going outside the box even when it might not be favourable for the design objective.
+
+More generally, I am biased by what I think is “boring” and “interesting”. Even when I try not to, one of the first things I think of when I consider a design alternative or process idea is how “cool” it seems. Even if an alternative will meet the needs of our requirements model/our stakeholders’ needs, I will be turned off of it if it doesn’t meet my subjective, unconscious criteria for what is “interesting”.
+
+Finally, I have been in private schools for my entire life. Simultaneously, I have frequently visited my parent’s home country of India, where I have been exposed (for several weeks at a time) to extreme poverty. I have most of my time around two ends of the socio-economic spectrum, and I am almost certainly biased by that extremism, though I find it difficult to predict exactly how.
+
+\subsection{Metadiscourse on Handbook Design}
+I will go on to discuss my projects, including the process followed and holistic review for each, followed by a description and justification of my personal design process, and finally a full overview of all the tools, models, and frameworks mentioned and briefly discussed in the projects section.
+
+My handbook is organized this way because my projects are a core part of my identity and therefore ought to be introduced first to better understand my use of tools and the derivation of my personal design process. I choose to be detailed about my projects because, in my experience in writing guides for my future self, I require many mental hooks to draw upon in order to recall concepts, ideas, and skills optimally.
+
+This organization also mirrors my value system organization. I introduce my projects (i.e. ‘identifying worthy problems to solve’), then my personal design process (i.e. a tool to ‘generate creative, good solutions to these problems’), and finally close with detailed description of each engineering design tool (i.e. methods to ‘optimize my plan and effectively implement the great ideas’).
+
+I chose not to group my Tools into categories such as FDCR because I invented many of them and many are from outside of Praxis lectures, so they don’t fit directly into easily describable categories. As well, when I am looking through in the future, being forced to look through all my favourite tools will help me to potentially creatively alter a tool that wouldn’t initially fit the use case, but could both my project via its effectiveness and actualize my values of creativity and open mindedness.
+
+My invented tools are valid because I have evidence in the form of my experience that they work for me. Since this handbook is meant for my future design work, I am a key stakeholder and that it plenty of reason to be valid. On top of this, I incorporate further research to justify why many of my invented tools are valid.
+
+\section{Projects}
+\subsection{Importance of Projects}
+I have always been a project-oriented person, and I love doing projects. Using projects as case studies has been extremely valuable for my success in later projects. The following is a brief summation of some of my projects from the past year, since the beginning of Praxis I. I will present them in chronological order, discussing the project goals, process, and a brief holistic review.
+
+\subsection{Praxis I Design - Smart Hat}
+For our Praxis I design project, Alice, Kelvin and I worked to improve the quality of sleep for Engsci’s in transit. We designed for effectiveness in terms of light and sound blockage, along with cost, comfort, durability, and aesthetics.
+
+\subsubsection{Process}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
